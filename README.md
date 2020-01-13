@@ -17,7 +17,7 @@ Si quieres saber más sobre la guía o sobre qué son las experiencias omnicanal
 ## Autores
 
  * [Sandra Juárez](https://github.com/next-sandrajuarez)
- * [José Manuel Martínez](https://github.com/next-josemanuelmartinezcarrasco)
+ * [José Martínez](https://github.com/next-josemanuelmartinezcarrasco)
  * [Lucas Menéndez](https://github.com/next-lucasmenendez)
  * [Marta Salas](https://github.com/next-martasalas)
 
